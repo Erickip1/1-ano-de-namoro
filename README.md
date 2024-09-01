@@ -4,8 +4,8 @@ Este é um site pessoal desenvolvido por Erick Gonçalves para data importante e
 
 ## Tecnologias Utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 ## Estrutura de Arquivos
 
